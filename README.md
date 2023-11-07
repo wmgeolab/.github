@@ -6,7 +6,7 @@ Welcome to the official GitHub organization for the geoLab at William & Mary. Ou
 
 Our lab engages in a variety of research activities, with recent publications covering topics focused on generating and analyzing very large spatially-explicit datasets (especially satellite imagery). A complete list of our publications can be found [here](https://sites.google.com/view/wmgeolab/our-research).
 
-![Recent Publication Highlight](https://github.com/wmgeolab/.github/main/researchHighlight.jpg)
+![Recent Publication Highlight](https://github.com/wmgeolab/.github/blob/main/researchHighlight.jpg)
 
 ## Our Data
 
