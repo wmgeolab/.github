@@ -18,7 +18,6 @@ We're proud of the work we do here at geoLab and welcome collaboration and engag
 
 For any inquiries, you can reach us at:
 
-_The William & Mary geoLab_
-Department of Applied Science, William & Mary
-540 Landrum Drive, Williamsburg, Virginia, 23185
+_The William & Mary geoLab_ | Department of Applied Science, William & Mary | 540 Landrum Drive, Williamsburg, Virginia, 23185 
+
 Email: [Dan Runfola](mailto:danr@wm.edu)
