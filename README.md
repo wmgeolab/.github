@@ -1,5 +1,5 @@
 # geoLab @ William & Mary
-
+![image](https://user-images.githubusercontent.com/7882645/216724015-071055db-e635-418b-83a6-acbdde726c6c.png)
 Welcome to the official GitHub organization for the geoLab at William & Mary. Our mission is to create and promote vibrant societies of data driven policymakers. We focus on providing free access to essential datasets and technologies, conducting research at the intersection of artificial intelligence, satellite imagery and big data, and cultivating the next generation of leaders skilled in using data for making informed decisions.
 
 ## Our Research
